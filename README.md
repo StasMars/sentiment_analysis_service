@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/мойреп/sentiment_analysis_service.git
+    git clone https://github.com/StasMars/sentiment_analysis_service
     cd sentiment_analysis_service
     ```
 
